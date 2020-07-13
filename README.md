@@ -12,6 +12,11 @@ os projetos apresentados aqui nessa seção foram desenvolvidos durante a estar 
   
  Para esse modulo iniciei colocando a mão com esse projetos
  
+ Obs aqui todos eram para por a mao na massa msm o famoso pegar a é chutar a gol
+ depois é dpois desse primeiro chute começar as analisar os pontos dos quais voce é mais "fraco"
+ dai então tentar otimizar suas soluções.
+ 
+ 
 - Projetos basicos desenvovidos
 
 
