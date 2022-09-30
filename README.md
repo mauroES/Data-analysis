@@ -4,7 +4,8 @@
 <p> Eu sou Engenheiro de software e entusiasta no mundo dos dados.
 
 ## Alguns projetos práticos:
-    - Bootcamp DIO [aqui](https://github.com/mauroES/Data-analysis/blob/master/bootcamp.ipynb)
+Bootcamp-DIO - [link](https://github.com/mauroES/Data-analysis/blob/master/bootcamp.ipynb)
+
 ## 📬 Vamos manter contato
 1. LinkedIn - https://www.linkedin.com/in/mauricio-silva-068b418b/
 
